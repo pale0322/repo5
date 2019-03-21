@@ -1,2 +1,6 @@
 hello repository
+<<<<<<< HEAD
 hhhhhhh
+=======
+what????
+>>>>>>> f16850a1d0719a3225315e3a9db41b698ed68361
